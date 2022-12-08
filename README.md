@@ -1,5 +1,5 @@
 # WPF CalculatorWPF Calculator
-[![Picture of calculator](https://ibb.co/QHY6bsS "Picture of calculator")](https://ibb.co/QHY6bsS "Picture of calculator")
+![Kalkulačka](https://user-images.githubusercontent.com/96733466/206480463-9cd7f1a0-29d7-40f3-a764-fa23405c1c85.png)
 #### Czech language:
 WPF kalkulačka je projekt, který jsem dělal jako procvičování na WPF forms, snažil jsem se napodobit kalkulačku z windows. Dělal jsem vše sám, krom XAML kódu, kterýmu ještě plně nerozumim.
 #### English:
