@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Zdroje\IkonaAplikace.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="BackSpaceIcon.png" />
+    <None Remove="Menu Icon Dark.png" />
+    <None Remove="Zdroje\Icons\Close.png" />
+    <None Remove="Zdroje\Icons\Maximize.png" />
+    <None Remove="Zdroje\Icons\Minimize.png" />
+    <None Remove="Zdroje\IkonaKalkulacky.png" />
+    <None Remove="Zdroje\Menu Icon White.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Zdroje\IkonaAplikace.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Zdroje\BackSpaceIcon.png" />
+    <Resource Include="Zdroje\Icons\Close.png" />
+    <Resource Include="Zdroje\Icons\Maximize.png" />
+    <Resource Include="Zdroje\Icons\Minimize.png" />
+    <Resource Include="Zdroje\IkonaKalkulacky.png" />
+    <Resource Include="Zdroje\Menu Icon White.png" />
+  </ItemGroup>
+
+</Project>
